@@ -25,14 +25,10 @@ The Weather Dashboard is a web application that allows users to search for the c
 
 ## Project Structure
 * index.html: The main HTML file containing the structure of the web page.
-
-* styles/: Folder containing CSS files for styling.
-
 * assets/:
+** styles/: Folder containing CSS files for styling. Additional styles, including reset.css.
 
-* styles/: Additional styles, including reset.css.
-  
-* script/: JavaScript files, including the main script.js file.
+** script/: JavaScript files, including the main script.js file.
 ## Additional Notes
 * The application uses the OpenWeatherMap API to fetch weather data.
 
