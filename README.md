@@ -30,8 +30,9 @@ The Weather Dashboard is a web application that allows users to search for the c
 
 * assets/:
 
-styles/: Additional styles, including reset.css.
-script/: JavaScript files, including the main script.js file.
+* styles/: Additional styles, including reset.css.
+  
+* script/: JavaScript files, including the main script.js file.
 ## Additional Notes
 * The application uses the OpenWeatherMap API to fetch weather data.
 
