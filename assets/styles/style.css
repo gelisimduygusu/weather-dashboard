@@ -1,0 +1,62 @@
+
+.todayStyle {
+    background-color:#4e80f6;
+    padding: 10px;
+    color:white;
+
+}
+
+.forecastStyle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.forecastStyle div {
+    color: white;
+    background-color:#4e80f6;
+    margin: 10px;
+    width: 250px;
+    padding: 15px 20px;
+}
+
+.form {
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input,
+.search-button {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-input {
+    margin-bottom: 10px;
+}
+
+#history {
+    width: 100%;
+}
+
+.search-button {
+    background-color:#4e80f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.weather-header {
+    background-color:#4e80f6;
+    color: white;
+}
