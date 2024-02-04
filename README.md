@@ -36,3 +36,9 @@ script/: JavaScript files, including the main script.js file.
 * The application uses the OpenWeatherMap API to fetch weather data.
 
 ## Link
+
+https://gelisimduygusu.github.io/weather-dashboard/
+
+<img width="1312" alt="Screenshot 2024-02-04 at 15 33 55" src="https://github.com/gelisimduygusu/weather-dashboard/assets/151784243/843134f2-43c3-4599-ba88-aadf1b9cdc24">
+
+
